@@ -1,27 +1,38 @@
 5/4/17
 
 The goal for today was to get a more concrete idea of the application that we will be developing. We collected some ideas for researching.
-
 After some dicussion, it appears that we would be using libGDX to develop the application.
 https://github.com/libgdx/libgdx
-
 Due to internet speeds however, we were not able to download. We would most likely just bring laptops to school.
 
 5/5/17
 
-Today we did some game idea development. We postponed the technical components because the school computers can't download Android Studio.
+The goal for today was to have some concept about the application.
+Today we did some game idea development. 
+We postponed the technical components because the school computers can't download Android Studio.
+Next time, we will bring in laptops.
 
 5/8/17
-Today we did Android Studio practice. Essentially, we had practice drills on how to make things happen on LibGDX. Next time, we will do movement based on finger taps.
+The goal today was to have some practice with Android Studio.
+Thus, we did some programming in Android Studio. Essentially, we had practice drills on how to make things happen on LibGDX. 
+Next time, we will do movement based on finger taps.
 
 5/9/17
-We did game development. We drew on the board and visualized the potential application.
+The goal for today was to do some fundamental task on the screen.
+We did game development and applied the skills we learned. 
+We drew on the board and visualized the potential application.
 
 5/11/17
-I did some coding and made the sprite follow finger taps.
+The goal today is to make the spirte move towards triggers. 
+I did some coding and made the sprite follow finger taps. 
+Next time, we will come up with possible minigames for the app.
 
 5/12/17
+Today, we will decide on possible games for the application.
 We did concept development for the app. Game features.
+Next time, we will figure out how to network.
 
 5/15/17
+Today we wanted to learn about networking.
 We discussed networking and table development.
+Next tiem we will set up some SQL command and server and tables.
